@@ -1,3 +1,9 @@
+/*
+Covid 19 Data Exploration 
+Skills used: Joins, CTE's, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+*/
+
+
 --View the two tables in the database ordered by col 3,4
 Select *
 From PortfolioProjectCovid..CovidVaccinations
